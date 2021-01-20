@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/paziukmail">
   <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611131599~hmac=8e8d82dda01e1095ac2bc6625b706411" />
 </a>
