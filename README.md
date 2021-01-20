@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Привет, меня зовут Алексей. Сейчас работаю на должности Web-developer. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Алексей. Сейчас работаю на должности Web-developer в компании <a href="https://webnauts.pro/">Webnauts.pro</a>. Изучаю Git и ещё несколько интересных технологий.
 
 <br />
   
