@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.facebook.com/paziukmail">
-  <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611131599~hmac=8e8d82dda01e1095ac2bc6625b706411" />
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/paziuk.aleksei">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
