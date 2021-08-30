@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br>
+<br><br>
 
 <p>Привет, меня зовут <span style="color: #FE9B05; font-weight: 700;">Алексей</span> 😁. Сейчас работаю на должности Word-press developer в компании <a href="https://webnauts.pro/">Webnauts.pro🔭</a>.</p>
 <br />
